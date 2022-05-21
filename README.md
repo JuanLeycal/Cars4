@@ -8,6 +8,8 @@ Acompáñalo en esta aventura de 3 minutos donde tendrás que entregar los 4 ped
 
 Sólo son 4.
 
+Mientras Mcqueen tenga un Rappi, no podrá coger otro Rappi.
+
 Controlas a Mcqueen con las flechas direccionales o "awsd"
 
 Gracias por tomarte el tiempo de leer esto, y si quisiste, de jugar.
